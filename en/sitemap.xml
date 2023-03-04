@@ -24,6 +24,11 @@
     <lastmod>2023-03-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="fa"
+                href="https://blog.scisco.io/fa/categories/general/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
                 href="https://blog.scisco.io/de/categories/general/"
                 />
@@ -35,6 +40,16 @@
   </url><url>
     <loc>https://blog.scisco.io/posts/</loc>
     <lastmod>2023-03-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://blog.scisco.io/fa/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.scisco.io/posts/"
+                />
   </url><url>
     <loc>https://blog.scisco.io/about/</loc>
     <lastmod>2023-03-03T00:00:00+00:00</lastmod>
@@ -69,6 +84,16 @@
   </url><url>
     <loc>https://blog.scisco.io/posts/hi/</loc>
     <lastmod>2023-03-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://blog.scisco.io/fa/posts/hi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.scisco.io/posts/hi/"
+                />
   </url><url>
     <loc>https://blog.scisco.io/tags/</loc>
     <xhtml:link
