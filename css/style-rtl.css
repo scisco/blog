@@ -1,0 +1,3 @@
+/* set up spacing of menu items in menu and sub-menu */
+.header .menu > *            { margin-left: var(--len-3); }
+.side { padding-right: var(--len-4); }
