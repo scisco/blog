@@ -1,0 +1,82 @@
+/* set up spacing of menu items in menu and sub-menu */
+
+@font-face {
+    font-family: 'yekan';
+    src:url('../fonts/BYekan.eot?#') format('eot'),    
+        url('../fonts/BYekan.woff') format('woff'),
+        url('../fonts/BYekan.ttf') format('truetype'); 
+}
+
+@font-face {
+    font-family: 'traffic';
+    src:url('../fonts/BTraffic.eot?#') format('eot'),    
+        url('../fonts/BTraffic.woff') format('woff'),
+        url('../fonts/BTraffic.ttf') format('truetype'); 
+}
+
+@font-face {
+    font-family: 'badr';
+    src:url('../fonts/BBadr.eot?#') format('eot'),    
+        url('../fonts/BBadr.woff') format('woff'),
+        url('../fonts/BBadr.ttf') format('truetype'); 
+}
+
+@font-face {
+    font-family: 'baran';
+    src:url('../fonts/BBaran.eot?#') format('eot'),    
+        url('../fonts/BBaran.woff') format('woff'),
+        url('../fonts/BBaran.ttf') format('truetype'); 
+}
+
+@font-face {
+    font-family: 'mitra';
+    src:url('../fonts/BMitra.eot?#') format('eot'),    
+        url('../fonts/BMitra.woff') format('woff'),
+        url('../fonts/BMitra.ttf') format('truetype'); 
+}
+
+@font-face {
+    font-family: 'nazanin';
+    src:url('../fonts/BNazanin.eot?#') format('eot'),    
+        url('../fonts/BNazanin.woff') format('woff'),
+        url('../fonts/BNazanin.ttf') format('truetype'); 
+}
+
+@font-face {
+    font-family: 'yagut';
+    src:url('../fonts/BYagut.eot?#') format('eot'),    
+        url('../fonts/BYagut.woff') format('woff'),
+        url('../fonts/BYagut.ttf') format('truetype'); 
+}
+
+@font-face {
+    font-family: 'zar';
+    src:url('../fonts/BZar.eot?#') format('eot'),    
+        url('../fonts/BZar.woff') format('woff'),
+        url('../fonts/BZar.ttf') format('truetype'); 
+}
+
+@font-face {
+    font-family: 'titr';
+    src:url('../fonts/BTitrBold.eot?#') format('eot'),    
+        url('../fonts/BTitrBold.woff') format('woff'),
+        url('../fonts/BTitrBold.ttf') format('truetype'); 
+}
+
+@font-face {
+    font-family: 'bbc';
+    src:url('../fonts/bbc_normal.woff2') format('woff'),
+        url('../fonts/BTitrBold.ttf') format('truetype'); 
+}
+
+
+
+:root {
+    --fonts-sans: "bbc", "Droid Sans", "Calibri", "Arial";
+    --fonts-serif-en: "bbc", "Noto Serif", "Times New Roman";
+}
+
+.header .menu > *  { margin-left: var(--len-3); }
+.side { padding-right: var(--len-4); }
+
+#archive .group .value   { text-indent: -60px; padding-right: 60px; }
