@@ -1,4 +1,7 @@
-
 .content {
     line-height: 1.7;
+}
+
+.side-comments {
+    background-color: var(--color-light-5);
 }
